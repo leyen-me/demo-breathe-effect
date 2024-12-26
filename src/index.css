@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  position: relative;
+  height: 100vh;
+  background: radial-gradient(101.4% 61.3% at 12.4% 100%,#0832bd 0%,rgb(189,204,255) 86.29293355855856%,rgb(235,239,255) 100%);
+  margin-top: 46px;
+}
